@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    font-style: italic;
+    font-size: 24px;
+}
+
+table {
+    padding: 12px;
+    border-spacing: 18px;
+    border-collapse: separate;
+}
+
+td.poem {
+    padding-left: 20px;
+}
+
+img {
+    width: 632px;
+    height: 632px;
+}
