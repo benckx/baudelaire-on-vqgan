@@ -14,7 +14,7 @@
 
     let aboutMeDiv = document.getElementById("about-me")
     aboutMeDiv.innerHTML = `
-        <p style="text-align: center; font-size: 14px">
+        <p>
         <a href="https://about.me/benckx">about me</a>
         <br/>
         <a href="https://creator.nightcafe.studio/u/benckx">nightcafe profile</a>

@@ -3,15 +3,19 @@ h1 {
     font-style: italic;
 }
 
-p {
-    font-style: italic;
-    font-size: 24px;
+div#poems {
+    text-align: center;
 }
 
 table {
     padding: 12px;
     border-spacing: 18px;
     border-collapse: separate;
+}
+
+table p {
+    font-style: italic;
+    font-size: 24px;
 }
 
 td.poem {
@@ -21,4 +25,25 @@ td.poem {
 img {
     width: 632px;
     height: 632px;
+}
+
+div#about-me {
+    text-align: center;
+    font-size: 14px
+}
+
+div#about-me p {
+    font-size: 14px
+}
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
 }
