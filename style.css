@@ -13,6 +13,7 @@ span.all-poems {
 
 div#poems {
     text-align: center;
+    font-size: 18px;
 }
 
 span.sources {
