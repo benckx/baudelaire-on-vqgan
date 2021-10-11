@@ -3,6 +3,14 @@ h1 {
     font-style: italic;
 }
 
+
+span.all-poems {
+    display: table;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+}
+
 div#poems {
     text-align: center;
 }
