@@ -12,8 +12,8 @@ span.sources {
 }
 
 table {
-    padding: 12px;
-    border-spacing: 18px;
+    padding: 10px;
+    border-spacing: 12px;
     border-collapse: separate;
 }
 
@@ -23,7 +23,7 @@ table p {
 }
 
 td.poem {
-    padding-left: 18px;
+    padding-left: 14px;
 }
 
 img {
