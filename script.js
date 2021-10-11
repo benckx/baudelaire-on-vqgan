@@ -15,9 +15,9 @@
     let aboutMeDiv = document.getElementById("about-me")
     aboutMeDiv.innerHTML = `
         <p>
-        <a href="https://about.me/benckx">about me</a>
+        <a href="https://about.me/benckx" target="_blank">about me</a>
         <br/>
-        <a href="https://creator.nightcafe.studio/u/benckx">nightcafe profile</a>
+        <a href="https://creator.nightcafe.studio/u/benckx" target="_blank">nightcafe profile</a>
         </p>
     `
 })();
